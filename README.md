@@ -5,9 +5,9 @@ Software Engineer and Backend Dev
 ---------------------------------
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
-* 🖥️  See my portfolio at [https://miki-tebe.github.io/](http://miki-tebe.github.io/)
-* 🚀  I'm currently working on [Gebeya Search](http://www.gebeyasearch.com/)
-* 🧠  I'm learning Typescript, Next.js and Laravel
+* 🖥️  See my portfolio at [http://miki-tebe.vercel.app/](https://miki-tebe.vercel.app/)
+* 🚀  I'm currently working at [Auction Ethiopia](http://www.auction.et/)
+* 🧠  I'm learning Typescript, Next.js, Django and Laravel
 * 🤝  I'm open to collaborating on OpenSource projects
 
 ### Skills
